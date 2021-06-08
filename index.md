@@ -7,22 +7,25 @@ If you have any questions or comments, please contact me @
 
 ### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+From Raspberry Pi's to Home-labs, firewall & router configuration and NAS setups
+Here are my CyberSecProjects :)
 
 ```markdown
-Syntax highlighted code block
+Raspberry Pi Projects: 
+- Pi-Hole
+- Security Camera System
+- Retro Gaming Pi
 
-# Header 1
-## Header 2
-### Header 3
+Home-Lab
+1. Firewall configuration
+2. Rotuer configuration
+3. NAS setup
+4. Raspberry-Pi Servers
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+`Upcoming projects & Write-ups!`
+-Magic-Mirror!
+-TryHackMe expereinces!
+-Pentesting Metasploitable images! 
 
 [Link](url) and ![Image](src)
 ```
