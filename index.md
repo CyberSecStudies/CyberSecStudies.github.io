@@ -1,8 +1,8 @@
 ## Welcome to My Project Page!
 
-Here lies various Cyberesecurity/Networking related projects made by me, Brandon! 
+Here lies various Cybersecurity/Networking related projects made by me, Brandon! 
 
-If you have any questions or comments, please contact me @ CyberSecStudies.github@gmail.com
+         If you have any questions or comments, please contact me @          CyberSecStudies.github@gmail.com
 
 ### Projects
 
