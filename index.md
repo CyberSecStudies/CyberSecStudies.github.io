@@ -1,6 +1,6 @@
 ## Welcome to My Project Page
 
-You can use the [editor on GitHub](https://github.com/CyberSecStudies/CyberSecStudies.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Here lies various Cyberesecurity/Networking related projects made by me, Brandon! 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
