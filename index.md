@@ -1,10 +1,10 @@
-## Welcome to My Project Page
+## Welcome to My Project Page!
 
 Here lies various Cyberesecurity/Networking related projects made by me, Brandon! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you have any questions or comments, please contact me @ CyberSecStudies.github@gmail.com
 
-### Markdown
+### Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
