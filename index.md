@@ -7,6 +7,9 @@ If you have any questions or comments, please contact me @
 
 ### Projects
 
+[Pi-Hole](https://medium.com/@cybersecstudies/creating-a-network-wide-ad-blocker-e66190d87a15)
+
+
 From Raspberry Pi's to Home-labs, firewall & router configuration and NAS setups
 Here are my CyberSecProjects :)
 
