@@ -12,7 +12,7 @@ Here are my CyberSecProjects :)
 
 ```markdown
 Raspberry Pi Projects: 
-- Pi-Hole
+- [Pi-Hole](https://medium.com/@cybersecstudies/creating-a-network-wide-ad-blocker-e66190d87a15) and ![Image](https://miro.medium.com/max/875/1*_zfCJoOddAKpi_Lv5dR6-A.jpeg)
 - Security Camera System
 - Retro Gaming Pi
 
