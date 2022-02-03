@@ -19,17 +19,20 @@ Raspberry Pi Projects:
 - [Pi-Hole](https://medium.com/@cybersecstudies/creating-a-network-wide-ad-blocker-e66190d87a15)
 - Security System
 - Retro Gaming Pi
-
+```markdown
 Home-Lab
+```
 1. Firewall configuration
 2. Rotuer configuration
 3. NAS setup
 4. Raspberry-Pi Servers
-
+```markdown
 `Upcoming projects & Write-ups!`
+```
 -Magic-Mirror!
 -TryHackMe expereinces!
 -Pentesting Metasploitable images! 
+
 ```markdown
 [Link](url) and ![Image](src)
 ```
