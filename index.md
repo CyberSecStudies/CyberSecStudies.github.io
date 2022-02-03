@@ -26,6 +26,7 @@ Home-Lab
 2. Rotuer configuration
 3. NAS setup
 4. Raspberry-Pi Servers
+
 ```markdown
 `Upcoming projects & Write-ups!`
 ```
